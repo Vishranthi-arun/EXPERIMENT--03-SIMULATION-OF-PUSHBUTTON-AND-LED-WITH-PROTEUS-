@@ -111,11 +111,7 @@ int main(void)
 
 # LED ON:
 ![on](https://user-images.githubusercontent.com/93427278/234829322-89d3340f-5bef-441e-94ed-6e9baf902586.png)
-
-## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- 
+  
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
